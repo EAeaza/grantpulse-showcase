@@ -2,7 +2,7 @@
 
 An editorial pipeline that finds scholarships, grants and internships for young people and publishes checked, source-backed posts to a Telegram channel.
 
-**since Jun 2026, active · 45 commits · Python · SQLite · code: private**
+**since Jun 2026, active · 47 commits · Python · SQLite · code: private**
 ## The problem
 
 There are thousands of opportunities for students — fully funded master's programmes, UN internships, summer schools, fellowships, competitions — and they are scattered across university sites, international organisations and government portals. Russian-speaking students in the CIS and Central Asia mostly learn about them from Telegram channels. Those channels often repost each other, drop the official link, get deadlines wrong, or promise "fully funded" without proof.
